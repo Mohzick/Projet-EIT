@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vertices>
+<vertex id="2" position="1" length="4" >
+  <lemma>John</lemma>
+  <macro>NP</macro>
+  <micro>PROPN</micro>
+  <pred id="0"/>
+</vertex>
+<vertex id="3" position="6" length="3" >
+  <lemma>eat</lemma>
+  <macro>V</macro>
+  <micro>VERB</micro>
+  <pred id="2"/>
+</vertex>
+<vertex id="4" position="10" length="7" >
+  <lemma>dicious</lemma>
+  <macro>NC</macro>
+  <micro>NOUN</micro>
+  <pred id="3"/>
+</vertex>
+<vertex id="5" position="18" length="5" >
+  <lemma>pizza</lemma>
+  <macro>NC</macro>
+  <micro>NOUN</micro>
+  <pred id="4"/>
+</vertex>
+<vertex id="6" position="24" length="4" >
+  <lemma>with</lemma>
+  <macro>PREP</macro>
+  <micro>ADP</micro>
+  <pred id="5"/>
+</vertex>
+<vertex id="7" position="29" length="7" >
+  <lemma>friend</lemma>
+  <macro>NC</macro>
+  <micro>NOUN</micro>
+  <pred id="6"/>
+</vertex>
+</vertices>
